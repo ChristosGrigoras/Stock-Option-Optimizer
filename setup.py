@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='Stock-Option-Optimizer',
+    name='StockOptionOptimizer',
     url='https://github.com/ChristosGrigoras/Stock-Option-Optimizer',
     author='Christos Grigoras',
-    author_email='cgrigoras@gmail.com',
+    author_email='chris.grigoras@gmail.com',
     packages=['sooptimizer'],
     install_requires=['numpy'],
     version='0.1',
