@@ -10,5 +10,5 @@ setup(
     version='0.1',
     license='MIT',
     description='Stock Option Optimizer',
-    long_description=open('README.txt').read(),
+    # long_description=open('README.txt').read(),
 )
