@@ -5,7 +5,7 @@ setup(
     url='https://github.com/ChristosGrigoras/Stock-Option-Optimizer',
     author='Christos Grigoras',
     author_email='cgrigoras@gmail.com',
-    packages=['optimizer'],
+    packages=['sooptimizer'],
     install_requires=['numpy'],
     version='0.1',
     license='MIT',
